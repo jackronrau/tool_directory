@@ -1,0 +1,68 @@
+{
+  "nav": {
+    "tools": "工具",
+    "collections": "集合",
+    "explore": "探索",
+    "resources": "资源",
+    "community": "社区"
+  },
+  "hero": {
+    "title": {
+      "start": "发现最佳",
+      "highlight": "开发者工具"
+    },
+    "description": "探索我们精心策划的开发工具、框架和资源集合，提升您的工作流程，构建更好的软件。",
+    "cta": {
+      "browse": "浏览工具",
+      "collections": "查看集合"
+    }
+  },
+  "tools": {
+    "title": "开发者工具",
+    "description": "浏览我们精心策划的开发工具和资源集合",
+    "filters": {
+      "title": "筛选",
+      "advanced": "高级筛选",
+      "apply": "应用筛选",
+      "type": {
+        "title": "工具类型",
+        "github": "开源 (GitHub)",
+        "resource": "学习资源",
+        "website": "网页工具",
+        "api": "API 和服务"
+      },
+      "features": {
+        "title": "功能特性",
+        "docs": "文档完善",
+        "community": "活跃社区",
+        "enterprise": "企业支持",
+        "free": "免费版本"
+      },
+      "popularity": {
+        "title": "受欢迎程度",
+        "stars": "最少 GitHub 星标",
+        "trending": "本周趋势",
+        "popular": "热门 (10k+ 星标)"
+      }
+    },
+    "search": {
+      "placeholder": "搜索工具..."
+    },
+    "sort": {
+      "popular": "最受欢迎",
+      "trending": "趋势",
+      "recent": "最新添加",
+      "updated": "最近更新"
+    },
+    "categories": {
+      "all": "所有工具"
+    }
+  },
+  "footer": {
+    "product": "产品",
+    "resources": "资源",
+    "community": "社区",
+    "about": "关于",
+    "copyright": "© {year} DevTools Hub. 保留所有权利。"
+  }
+}

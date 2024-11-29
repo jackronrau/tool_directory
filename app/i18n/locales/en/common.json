@@ -1,0 +1,68 @@
+{
+  "nav": {
+    "tools": "Tools",
+    "collections": "Collections",
+    "explore": "Explore",
+    "resources": "Resources",
+    "community": "Community"
+  },
+  "hero": {
+    "title": {
+      "start": "Discover the Best",
+      "highlight": "Developer Tools"
+    },
+    "description": "Explore our curated collection of development tools, frameworks, and resources to enhance your workflow and build better software.",
+    "cta": {
+      "browse": "Browse Tools",
+      "collections": "View Collections"
+    }
+  },
+  "tools": {
+    "title": "Developer Tools",
+    "description": "Browse our curated collection of development tools and resources",
+    "filters": {
+      "title": "Filters",
+      "advanced": "Advanced Filters",
+      "apply": "Apply Filters",
+      "type": {
+        "title": "Tool Type",
+        "github": "Open Source (GitHub)",
+        "resource": "Learning Resources",
+        "website": "Web Tools",
+        "api": "APIs & Services"
+      },
+      "features": {
+        "title": "Features",
+        "docs": "Documentation Available",
+        "community": "Active Community",
+        "enterprise": "Enterprise Support",
+        "free": "Free Tier Available"
+      },
+      "popularity": {
+        "title": "Popularity",
+        "stars": "Minimum GitHub Stars",
+        "trending": "Trending this week",
+        "popular": "Popular (10k+ stars)"
+      }
+    },
+    "search": {
+      "placeholder": "Search tools..."
+    },
+    "sort": {
+      "popular": "Most Popular",
+      "trending": "Trending",
+      "recent": "Recently Added",
+      "updated": "Recently Updated"
+    },
+    "categories": {
+      "all": "All Tools"
+    }
+  },
+  "footer": {
+    "product": "Product",
+    "resources": "Resources",
+    "community": "Community",
+    "about": "About",
+    "copyright": "© {year} DevTools Hub. All rights reserved."
+  }
+}
